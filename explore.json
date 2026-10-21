@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "React Native Official Docs",
+    "detail": "เอกสารคู่มือการใช้งาน React Native ฉบับทางการจาก Meta",
+    "image": "https://reactnative.dev/img/tiny_logo.png"
+  },
+  {
+    "id": "2",
+    "title": "Expo Developer Guides",
+    "detail": "คู่มือการใช้งาน Expo SDK, Tools และบริการระบบ EAS Build",
+    "image": "https://docs.expo.dev/static/images/og-image.png"
+  },
+  {
+    "id": "3",
+    "title": "React Navigation Guide",
+    "detail": "คู่มือการจัดการระบบ Navigation แบบ Drawer, Tab และ Stack",
+    "image": "https://reactnavigation.org/img/spaghetti.svg"
+  },
+  {
+    "id": "4",
+    "title": "JavaScript ES6+ Features",
+    "detail": "ฟีเจอร์สำคัญใน JavaScript สำหรับเขียน React Native อย่างมีประสิทธิภาพ",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+  },
+  {
+    "id": "5",
+    "title": "GitHub REST API Docs",
+    "detail": "การใช้งาน API ดึงข้อมูลภายนอกมาแสดงผลในแอปพลิเคชัน",
+    "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "id": "6",
+    "title": "React Hooks Reference",
+    "detail": "สรุปการใช้งาน useState, useEffect และ Custom Hooks",
+    "image": "https://reactnative.dev/img/tiny_logo.png"
+  },
+  {
+    "id": "7",
+    "title": "AsyncStorage Local Data",
+    "detail": "เทคนิคการบันทึกข้อมูลแบบ Key-Value ลงในอุปกรณ์เคลื่อนที่",
+    "image": "https://docs.expo.dev/static/images/og-image.png"
+  },
+  {
+    "id": "8",
+    "title": "EAS Build & Export APK",
+    "detail": "ขั้นตอนการส่งออกไฟล์ .apk เพื่อนำไปทดสอบบนสมาร์ตโฟน Android",
+    "image": "https://docs.expo.dev/static/images/og-image.png"
+  }
+]
